@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Hand 'n Foot Scorecard"

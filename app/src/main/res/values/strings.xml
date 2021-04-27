@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Extended Browser</string>
+    <string name="search_or_enter_a_url">Search or enter a URL</string>
+    <string name="magnifying_glass">🔎</string>
+</resources>
